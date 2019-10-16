@@ -1,6 +1,7 @@
 # my-app
 
 > A Vue.js project
+例子中有添加项目，删除项目，过滤项目，显示未完成事件的数目。
 
 ## Build Setup
 
